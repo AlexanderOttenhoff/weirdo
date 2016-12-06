@@ -1,0 +1,22 @@
+{
+  "name": "weirdo",
+  "version": "1.0.0",
+  "description": "WTFPL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdeturckheim/weirdo.git"
+  },
+  "author": "vdeturckheim",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/weirdo/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/weirdo#readme",
+  "dependencies": {
+    "node-uuid": "^1.4.7"
+  }
+}
